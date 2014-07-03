@@ -2,22 +2,15 @@
 import UIKit
 
 /* #Arrays
-
 Arrays store ordered lists of multiple values of the same type. Swift’s use of explicitly typed collections ensures that code is always clear about the types of values it can work with. They differ from  Objective-C's NSArray and NSMutableArray classes, which can store any kind of object and do not provide any information about the nature of the objects they return.
-*/
-
-
-/*
 
 Two ways of using Arrays : (Second one is preferred)
-
 */
 
 var array1: Array<Int> = []
 var array2: Int[] = []
 
 /*
-
 #Array Literal is a shorthand way to write one or more values as an array collection. Note that the type of the array is not specified, since Swift's type inference can find it from the array literal used to initialize it.
 */
 
