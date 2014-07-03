@@ -172,3 +172,8 @@ let constDict = [1: "one", 2: "two"]
 // constDict[3] = "three" // This will not work. You can't add/remove new pairs
 // constDict[2] = "Two" // This will not work. You cannot modify the values too.
 
+
+
+
+
+
